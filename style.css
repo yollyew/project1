@@ -11,3 +11,17 @@
     margin: 10px;
     width: 40%;
 }
+
+#result {
+    background-color: white;
+    border-radius: 3px;
+    margin-bottom: 7px;
+    text-align: end;
+    padding: 5px;
+    font-size: 22px;
+}
+
+.button-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
